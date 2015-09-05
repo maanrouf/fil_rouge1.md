@@ -1,4 +1,4 @@
-**Afficher l'aide de git** 
+**Afficher l'aide de git:** 
     
     git help git
 
@@ -12,20 +12,20 @@
 
 **Committer les modifications:** 
    
-   git commit -m ("votre message")
+    git commit -m ("votre message")
 
 **Télécharger un projet:** 
    
-   git clone (chemin ou url du projet)
+    git clone (chemin ou url du projet)
 
 **Envoyer tous les commits de la branche locale vers GitHub:** 
    
-   git push
+    git push
    
 **Créer une nouvelle branche:** 
    
-   git branch (nouveau)
+    git branch (nouveau)
 
 **Changer de branche:** 
    
-   git ckeckout (branche)
+    git ckeckout (branche)
